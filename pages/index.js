@@ -29,7 +29,7 @@ function Home() {
                 <p><i><strong>Liniker, Veludo Marrom </strong></i>🤎</p>
             </blockquote>
 
-            <p>Se gostou da surpresa, me manda uma emoji de coração marrom no Whatsapp. De novo, te amo muito!</p>
+            <p>Se gostou da surpresa, me manda um emoji de coração marrom no Whatsapp. De novo, te amo muito!</p>
 
             <p style={{ 'text-align': 'right' }}>Com amor, o sempre seu, <br /><strong>Vini</strong>.</p>
         </div>
